@@ -1,2 +1,2 @@
-# BlockChainWhitePaper - Experimental Research
+# BlockChain-Experimental Research
 
